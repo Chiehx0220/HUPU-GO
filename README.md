@@ -1,7 +1,7 @@
 ## 歡迎使用我的應用
 在這裡，您可以重新發現應用的樂趣
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我使用了Lua語言簡化了網頁，轉變成為一個輕量化的客戶端應用，採以公開透明的方式，希望用戶能用的安心
 
 ### Markdown
 
