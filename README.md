@@ -1,5 +1,5 @@
 ## 歡迎使用我的應用
-You can use the [editor on GitHub](https://github.com/TzuChiehHsiao/APP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+在這裡，您可以重新發現應用的樂趣
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
