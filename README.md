@@ -1,9 +1,9 @@
 ## 歡迎使用我的應用
-在此，您可以重新發現應用的樂趣
+### 在此，您可以重新發現應用的樂趣
 
 我使用了Lua語言簡化了網頁，轉變成為一個輕量化的客戶端應用，採以公開透明的方式，希望用戶也能夠在使用上得以安心。
 
-### 幹你老師後山埤
+### 簡約。而不簡單
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
