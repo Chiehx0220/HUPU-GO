@@ -1,4 +1,3 @@
-![image](http://chuantu.biz/t6/324/1528164081x-1404764420.png)
 ## 歡迎使用HUPU第三方輕量客戶端
 ### 在此，您可以重新發現應用的樂趣
 
@@ -6,9 +5,8 @@
 
 ### 簡約。而不簡單
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
+精簡了官方版的無用功能，留下的，是更乾淨的功能！
+應用，是使生活更加便利的介質。而不是一個塞滿雞肋功能又傷害手機的垃圾！
 
 # Header 1
 ## Header 2
