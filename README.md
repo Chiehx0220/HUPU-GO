@@ -9,7 +9,12 @@
 應用，是使生活更加便利的介質。而不是一個塞滿雞肋功能又傷害手機的垃圾！
 
 ## 應用介面
+### 首頁
 ![image](http://chuantu.biz/t6/326/1528351342x-1404764420.png)
+
+### 側滑欄
+
+![image](http://chuantu.biz/t6/326/1528351989x-1404764420.png)
 
 **Bold** and _Italic_ and `Code` text
 
