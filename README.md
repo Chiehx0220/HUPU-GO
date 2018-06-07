@@ -7,7 +7,7 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Syntax highlighted code block[image](http://chuantu.biz/t6/324/1528164081x-1404764420.png)
+Syntax highlighted code block![image](http://chuantu.biz/t6/324/1528164081x-1404764420.png)
 
 # Header 1
 ## Header 2
