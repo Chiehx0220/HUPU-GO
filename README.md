@@ -17,7 +17,7 @@
 
 ![image](http://chuantu.biz/t6/326/1528351989x-1404764420.png)
 
-## 下載應用
+## 下載最新版本
 
 不用VPN 
 [link](https://share.weiyun.com/5NgjXp7)
