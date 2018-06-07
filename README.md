@@ -9,6 +9,7 @@
 應用，是使生活更加**便利的介質**。而不是一個塞滿雞肋功能又傷害手機的**垃圾**！
 
 ## 應用介面
+
 ### 首頁
 ![image](http://chuantu.biz/t6/326/1528351342x-1404764420.png)
 
@@ -16,16 +17,10 @@
 
 ![image](http://chuantu.biz/t6/326/1528351989x-1404764420.png)
 
-**Bold** and _Italic_ and `Code` text
+## 下載應用
 
-[Link](url) and ![Image](src)
+不用VPN 
+[link](https://share.weiyun.com/5NgjXp7)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TzuChiehHsiao/APP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out
+需要VPN(但穩定)
+[link](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
