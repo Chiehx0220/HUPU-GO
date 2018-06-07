@@ -1,4 +1,4 @@
-## 歡迎使用HUPU第三方輕量客戶端
+![image](http://chuantu.biz/t6/324/1528164081x-1404764420.png)## 歡迎使用HUPU第三方輕量客戶端
 ### 在此，您可以重新發現應用的樂趣
 
 我使用了Lua語言簡化了網頁，轉變成為一個輕量化的客戶端應用，採以公開透明的方式，希望用戶也能夠在使用上得以安心。
@@ -7,7 +7,7 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-Syntax highlighted code block![image](http://chuantu.biz/t6/324/1528164081x-1404764420.png)
+Syntax highlighted code block
 
 # Header 1
 ## Header 2
