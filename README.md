@@ -8,15 +8,8 @@
 精簡了官方版的無用功能，留下的，是更乾淨的功能！
 應用，是使生活更加便利的介質。而不是一個塞滿雞肋功能又傷害手機的垃圾！
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### 應用介面
+[image](http://chuantu.biz/t6/326/1528351342x-1404764420.png)
 
 **Bold** and _Italic_ and `Code` text
 
