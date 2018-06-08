@@ -1,4 +1,4 @@
- # WELCOME TO "HUPU UNOFFICIAL APP"
+# WELCOME TO "HUPU UNOFFICIAL APP"
 ## 在此，您可以重新發現應用的樂趣
 
 我使用了Lua語言簡化了網頁，轉變成為一個輕量化的客戶端應用，採以公開透明的方式，希望用戶也能夠在使用上得以安心。
@@ -20,7 +20,7 @@
 ## 下載最新版本
 
 不用VPN 
-[link](https://share.weiyun.com/5NgjXp7)
+[下載](https://share.weiyun.com/5NgjXp7)
 
 需要VPN(但穩定)
-[link](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
+[下載](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
