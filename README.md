@@ -20,7 +20,7 @@
 ## 下載最新版本
 
 不用VPN 
-[下載](https://share.weiyun.com/5NgjXp7)
+[點擊下載](https://share.weiyun.com/5kvgMw1)
 
 需要VPN(但穩定)
-[下載](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
+[點擊下載](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
