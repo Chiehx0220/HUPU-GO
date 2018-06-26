@@ -11,6 +11,9 @@ WELCOME TO<br>-HUPU GO EDITION-
 
 ## 應用介面
 
+### 應用海報
+![image](https://upload.cc/i1/2018/06/26/eLqoUM.jpg)
+
 ### 首頁
 ![image](http://chuantu.biz/t6/326/1528351342x-1404764420.png)
 
