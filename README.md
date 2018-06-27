@@ -20,7 +20,7 @@
 ### 首頁
 ![image](https://upload.cc/i1/2018/06/27/Ap5Sld.png)
 
-### 側滑欄
+### 質感側滑欄
 
 ![image](https://upload.cc/i1/2018/06/27/RdSlJw.png)
 
