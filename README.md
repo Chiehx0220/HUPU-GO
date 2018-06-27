@@ -31,3 +31,8 @@
 
 需要VPN的載點(但穩定)
 [點擊下載](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
+
+## 推薦的VPN
+### 既然需要VPN的載點比較穩定，那有沒有推薦的呢？
+[戳我下載綠葉VPN](https://share.weiyun.com/52VHq7r)
+ 
