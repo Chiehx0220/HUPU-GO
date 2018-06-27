@@ -24,7 +24,7 @@
 
 ![image](https://upload.cc/i1/2018/06/27/RdSlJw.png)
 
-## 下載最新版本<br>(V1.4。V1.5即將發布)
+## 下載最新版本<br>(V1.4)<br>(V1.5即將發布)
 
 不用VPN 
 [點擊下載](https://share.weiyun.com/5kvgMw1)
