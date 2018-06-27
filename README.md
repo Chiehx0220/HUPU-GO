@@ -14,12 +14,15 @@
 ### 應用海報
 ![image](https://upload.cc/i1/2018/06/26/eLqoUM.jpg)
 
+### 啟動頁面
+![image](https://upload.cc/i1/2018/06/27/T8utCM.png)
+
 ### 首頁
-![image](http://chuantu.biz/t6/326/1528351342x-1404764420.png)
+![image](https://upload.cc/i1/2018/06/27/Ap5Sld.png)
 
 ### 側滑欄
 
-![image](http://chuantu.biz/t6/326/1528351989x-1404764420.png)
+![image](https://upload.cc/i1/2018/06/27/RdSlJw.png)
 
 ## 下載最新版本
 
