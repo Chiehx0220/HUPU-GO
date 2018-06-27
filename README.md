@@ -36,4 +36,8 @@
 
 ### 既然你說需要VPN的載點比較穩定<br>那有沒有推薦的呢
 [戳我下載綠葉VPN](https://share.weiyun.com/52VHq7r)
+
+
+Special thanks<br>酷安@哔站驻上海大鲨鱼办事处<br>提供應該去除的元素
+
  
