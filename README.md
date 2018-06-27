@@ -26,8 +26,8 @@
 
 ## 下載最新版本<br>(V1.5)
 
-不用VPN 
+不用VPN的載點
 [點擊下載](https://share.weiyun.com/5kvgMw1)
 
-需要VPN(但穩定)
+需要VPN的載點(但穩定)
 [點擊下載](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
