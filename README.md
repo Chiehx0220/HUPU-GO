@@ -24,13 +24,11 @@
 
 ![image](https://upload.cc/i1/2018/06/27/RdSlJw.png)
 
-## 下載最新版本<br>(V1.5)
+## 下載最新版本<br>(V1.5)v1.6即將發布
 
-不用VPN的載點
-[點擊下載](https://share.weiyun.com/5kvgMw1)
+[點擊下不用VPN的載點](https://share.weiyun.com/5kvgMw1)
 
-需要VPN的載點(但穩定)
-[點擊下載](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
+[點需要VPN的載點(但穩定)](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
 
 ## 推薦的VPN
 
