@@ -18,13 +18,13 @@
 ![image](https://upload.cc/i1/2018/06/27/T8utCM.png)
 
 ### 首頁
-![image](https://upload.cc/i1/2018/06/27/Ap5Sld.png)
+![image](https://upload.cc/i1/2018/07/07/iFdpKM.png)
 
 ### 質感側滑欄
 
-![image](https://upload.cc/i1/2018/06/27/RdSlJw.png)
+![image](https://upload.cc/i1/2018/07/07/VGr3fz.png)
 
-## 下載最新版本<br>(V1.5)v1.6即將發布
+## 下載最新版本<br>(V1.6)
 
 [不需VPN的載點](https://share.weiyun.com/5kvgMw1)
 
@@ -36,6 +36,5 @@
 [戳我下載綠葉VPN](https://share.weiyun.com/52VHq7r)
 
 
-Special thanks<br>酷安@哔站驻上海大鲨鱼办事处<br>提供應該去除的元素
-
+Special thanks<br>酷安@哔站驻上海大鲨鱼办事处<br>提供應該去除的元素<br>酷安@紅豆阿妹<br>提供我新圖標
  
