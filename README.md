@@ -38,7 +38,7 @@
 [戳我下載綠葉VPN](https://share.weiyun.com/52VHq7r)
 
 ### PY一個Youtube第三方應用
-[點我訪問vanced](vanced.azurewebsites.net)
+[點我訪問vanced](https://goo.gl/i2SCtq)
 
 
 Special thanks<br>酷安@哔站驻上海大鲨鱼办事处<br>提供應該去除的元素<br>酷安@紅豆阿妹<br>提供我新圖標
