@@ -26,7 +26,7 @@
 ### 眾多主題
 ![image](https://upload.cc/i1/2018/07/07/gtoUuq.png)
 
-## 下載最新版本<br>(V1.6.1)
+## 下載最新版本<br>(V1.7籃球足球雙版本)
 
 [不需VPN的載點](https://share.weiyun.com/5kvgMw1)
 
