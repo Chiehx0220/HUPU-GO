@@ -15,7 +15,7 @@
 ![image](https://upload.cc/i1/2018/06/26/eLqoUM.jpg)
 
 ### 啟動頁面
-![image](https://upload.cc/i1/2018/06/27/T8utCM.png)
+![image](https://upload.cc/i1/2018/09/14/mhCS0U.png)
 
 ### 首頁
 ![image](https://upload.cc/i1/2018/07/07/iFdpKM.png)
