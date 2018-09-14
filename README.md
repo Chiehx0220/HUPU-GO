@@ -35,7 +35,7 @@
 ## 推薦的VPN
 
 ### 既然你說需要VPN的載點比較穩定<br>那有沒有推薦的呢
-[戳我下載綠葉VPN](https://share.weiyun.com/52VHq7r)
+[戳我下載綠葉VPN](https://share.weiyun.com/51kdqnz)
 
 ### PY一個Youtube第三方應用(背景播放功能)
 [點我訪問vanced](https://goo.gl/i2SCtq)
