@@ -41,5 +41,5 @@
 [點我訪問vanced](https://goo.gl/i2SCtq)
 
 
-Special thanks<br>酷安@哔站驻上海大鲨鱼办事处<br>提供應該去除的元素<br>酷安@紅豆阿妹<br>提供我新圖標
+Special thanks<br>酷安@寒歌<br>提供技術支持<br>酷安@哔站驻上海大鲨鱼办事处<br>提供應該去除的元素<br>酷安@紅豆阿妹<br>提供我新圖標
  
