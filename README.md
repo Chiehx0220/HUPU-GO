@@ -28,7 +28,7 @@
 
 ## 下載最新版本<br>(V1.7籃球足球雙版本)
 
-[不需VPN的載點](https://share.weiyun.com/5kvgMw1)
+[不需VPN的載點](https://pan.baidu.com/s/1g-oudU9sVjrr11OPF7dBbg)
 
 [需要VPN的載點(但穩定)](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
 
