@@ -26,16 +26,16 @@
 ### 眾多主題
 ![image](https://upload.cc/i1/2018/07/07/gtoUuq.png)
 
-## 下載最新版本<br>(V1.7籃球足球雙版本)
+## 下載最新版本<br>(V1.8籃球足球雙版本)
 
-[不需VPN的載點](https://mega.nz/#F!83RCFQbB!xjHX1jCAsmD0xbsRVx3Y6w)
+[Via百度網盤](https://pan.baidu.com/s/1OWNEA9jBLCC2f-CTqOx_nw)
 
-[需要VPN的載點(但穩定)](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
+[Via谷歌雲端](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
 
 ## 推薦的VPN
 
-### 既然你說需要VPN的載點比較穩定<br>那有沒有推薦的呢
-[戳我下載hexatech VPN(已破解)](https://share.weiyun.com/5ENHixj)
+### 有沒有推薦的呢
+[戳我下載hexatech VPN v3.0(已破解)](https://pan.baidu.com/s/1c3AiiyOXMs3ulhJiRuYvGA)
 
 ### PY一個Youtube第三方應用(背景播放功能)
 [點我訪問vanced](https://goo.gl/i2SCtq)
