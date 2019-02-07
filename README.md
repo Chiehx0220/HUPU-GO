@@ -18,13 +18,16 @@
 ![image](https://upload.cc/i1/2018/09/14/mhCS0U.png)
 
 ### 首頁
-![image](https://upload.cc/i1/2018/07/07/iFdpKM.png)
+![image](https://upload.cc/i1/2019/02/07/zN7GRu.png)
 
 ### 質感側滑欄
-![image](https://upload.cc/i1/2018/07/07/VGr3fz.png)
+![image](https://upload.cc/i1/2019/02/07/CgvihY.png)
 
 ### 眾多主題
 ![image](https://upload.cc/i1/2018/07/07/gtoUuq.png)
+
+### 熱門板塊布局
+![image](https://upload.cc/i1/2019/02/07/G2MCNc.png)
 
 ## 下載最新版本<br>(V1.8籃球足球雙版本)
 
