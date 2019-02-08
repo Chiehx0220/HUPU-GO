@@ -31,14 +31,14 @@
 
 ## 下載最新版本<br>(V1.8籃球足球雙版本)
 
-[Via百度網盤](https://pan.baidu.com/s/1OWNEA9jBLCC2f-CTqOx_nw)
+[Via百度網盤](https://pan.baidu.com/s/14BXlz72rjyLshqe09q5Zew)
 
 [Via谷歌雲端](https://drive.google.com/folderview?id=1X7znGl_6pTHSWTgbU-SAVxmcyymd_qce)
 
 ## 推薦的VPN
 
 ### 有沒有推薦的呢
-[戳我下載hexatech VPN v3.0(已破解)](https://pan.baidu.com/s/1c3AiiyOXMs3ulhJiRuYvGA)
+[戳我下載hexatech VPN v3.0(已破解)](https://pan.baidu.com/s/1iCTri23mKnwKQG27q4owyQ)
 
 ### PY一個Youtube第三方應用(背景播放功能)
 [點我訪問vanced](https://goo.gl/i2SCtq)
